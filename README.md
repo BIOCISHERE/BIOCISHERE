@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biocishere" alt="biocishere" /></a> </p>
 
-- 🔭 I’m currently working on [this solo full-stack project](https://github.com/BIOCISHERE/solo-full-stack-project)
+- 🔭 I’m currently working on [this solo full-stack project](https://github.com/BIOCISHERE/full-stack-practice)
 
 - 📫 How to reach me **benjamin.ocaranza.costa@gmail.com**
 
